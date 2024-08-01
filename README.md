@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishnallana" target="blank"><img src="https://img.shields.io/twitter/follow/ashishnallana?logo=twitter&style=for-the-badge" alt="ashishnallana" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI using Google Cloud**
+- 🌱 I’m currently learning **React Native for building cross platform apps**
 
 - 📝 I regularly write articles on [https://medium.com/@ashishnallana09](https://medium.com/@ashishnallana09)
 
