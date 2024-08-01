@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">Hi 👋, I'm Ashish Nallana</h1>
 <h3 align="center">A passionate full stack dev from India</h3>
 <p align="center"><a href="https://ashishnallana.github.io/portfolio/" target="_blank" rel="noreferrer">Have a look at my portfolio.</a></p>
 
