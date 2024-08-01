@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Javascript, Python**
 
-- 📫 How to reach me **ashishnallana**
+- 📫 How to reach me **ashishnallana09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tvm-_TQtZqefKjXSC_1sfSOfw4HRtfwy/view?usp=sharing](https://drive.google.com/file/d/1tvm-_TQtZqefKjXSC_1sfSOfw4HRtfwy/view?usp=sharing)
 
